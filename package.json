@@ -1,5 +1,5 @@
 {
-      "name": "Mind Mapping Tool",
+      "name": "mind-mapping-tool",
       "version": "0.1.0",
       "private": true,
       "dependencies": {
